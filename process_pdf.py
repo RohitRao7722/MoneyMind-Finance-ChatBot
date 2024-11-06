@@ -6,7 +6,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from io import BytesIO
 import json
 
-PDF_DIRECTORY = "E:/imp_data/codes/bot/data"  # Update this path to your PDF folder location
+PDF_DIRECTORY = "./data_/"  # Update this path to your PDF folder location
 VECTORSTORE_INDEX_PATH = "faiss_index.index"
 METADATA_PATH = "metadata.json"
 
