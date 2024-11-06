@@ -16,3 +16,5 @@ MoneyMind Finance ChatBot is a conversational AI bot designed to provide financi
    ```bash
    git clone https://github.com/RohitRao7722/MoneyMind-Finance-ChatBot.git
    cd MoneyMind-Finance-ChatBot
+   ```bash
+   pip install -r requirements.txt
